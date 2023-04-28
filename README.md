@@ -255,4 +255,4 @@ Step 7: Reboot and test
 
 Once you have updated the initramfs, you can reboot your system and test that the YubiKey is working as expected. During boot, you should be prompted to insert your YubiKey to decrypt the encrypted volume.
 
-In conclusion, using a YubiKey with LUKS encryption on Linux is an effective way to secure your data and prevent unauthorized access to your system. By following these steps, you can add a YubiKey as a second factor authentication to your LUKS encrypted volume and enhance the security of your encrypted disk. For more detailed instructions, you can also refer to the Endpoint Development blog post.
+Using a YubiKey with LUKS encryption on Linux is an effective way to secure your data and prevent unauthorized access to your system. By following these steps, you can add a YubiKey as a second factor authentication to your LUKS encrypted volume and enhance the security of your encrypted disk. For more detailed instructions, you can also refer to the Endpoint Development blog post.
